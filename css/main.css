@@ -9,7 +9,7 @@ Font Sizes:
 
 Colours:
 hsl(213, 45%, 34%) Dark Blue 1
-hsl(213, 35%, 35%) Dark Blue 2
+hsl(213, 25%, 35%) Dark Blue 2
 hsl(213, 25%, 65%) Light Blue
 hsl(34, 100%, 54%) Orange
 hsl(34, 100%, 65%) Light Orange
@@ -49,7 +49,7 @@ ul {
 
 #masthead {
     margin: 55px 0 10px 0;
-    background-color: hsl(213, 35%, 35%);
+    background-color: hsl(213, 25%, 35%);
 }
 
 #masthead h1 {
@@ -81,7 +81,7 @@ ul {
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    background-color: hsl(213, 35%, 35%);
+    background-color: hsl(213, 25%, 35%);
 }
 
 .gallery li {
